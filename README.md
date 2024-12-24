@@ -1,4 +1,4 @@
-# FALCON: AI-Driven Security System
+# FALCON: Facial Recognition And Laser Object Detection For Comprehensive Security
 
 **FALCON** is an advanced AI-powered security system designed to provide precise, innovative, and reliable access control. By seamlessly integrating facial recognition and YOLO-based object detection, it ensures robust protection for various applications.
 
